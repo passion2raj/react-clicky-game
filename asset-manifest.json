@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-clicky-game/static/css/main.5146cfc7.chunk.css",
+    "main.js": "/react-clicky-game/static/js/main.2d4a43dd.chunk.js",
+    "main.js.map": "/react-clicky-game/static/js/main.2d4a43dd.chunk.js.map",
+    "runtime-main.js": "/react-clicky-game/static/js/runtime-main.53725655.js",
+    "runtime-main.js.map": "/react-clicky-game/static/js/runtime-main.53725655.js.map",
+    "static/js/2.7b82f4fe.chunk.js": "/react-clicky-game/static/js/2.7b82f4fe.chunk.js",
+    "static/js/2.7b82f4fe.chunk.js.map": "/react-clicky-game/static/js/2.7b82f4fe.chunk.js.map",
+    "index.html": "/react-clicky-game/index.html",
+    "precache-manifest.f12527f76c406cb23bc628c524bc269a.js": "/react-clicky-game/precache-manifest.f12527f76c406cb23bc628c524bc269a.js",
+    "service-worker.js": "/react-clicky-game/service-worker.js",
+    "static/css/main.5146cfc7.chunk.css.map": "/react-clicky-game/static/css/main.5146cfc7.chunk.css.map",
+    "static/media/Avenger6.png": "/react-clicky-game/static/media/Avenger6.b18165ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53725655.js",
+    "static/js/2.7b82f4fe.chunk.js",
+    "static/css/main.5146cfc7.chunk.css",
+    "static/js/main.2d4a43dd.chunk.js"
+  ]
+}
